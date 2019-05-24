@@ -1,0 +1,28 @@
+TAD Grafo
+Datos mìnimos:
+- Vertices, Lista de vertices, tipo plantilla
+- Aristas,Lista de delistas de vertices, tipo plantilla, representaciòn de una lista de adyacencia
+Operaciones:
+- insertarVertice(dato), retorna un valor lògico indicando si el dato pasado por paràmetro se inserto
+correctamente
+- insertarArista(datoI, datoF, peso), dados dos datos y un peso retorna un valor lògico indicando si la 
+insercion fue satisfactoria.
+- eliminarVertice(dato), Dado un dato, retorna un valor lògico indicando si el elemento fue encontrado 
+y elminado
+
+TAD Vertice
+Datos mìnimos:
+- dato, tipo plantilla, valor del vertice
+TAD arista
+Datos mìnimos:
+- datoInicio, Tipo plantilla, vertice origen
+- datoFina, Tipo plantilla, vertice llegada
+- peso, tipo entero, peso de la arista
+
+AUTOEVALUACIÓN
+10 de 10, siento que esta materia ha sido a lo largo del semestre la que mas me ha consumido tiempo.
+Primeramente creo que merezco esta nota por que nunca falte a clase, segundo, las horas dedicadas fuera
+de clase, para estudiar para un parcial, terminar un proyecto, o prepararar un taller siento que fueron
+excesivas. Aprendí mucho en esta clase, y considero que me esforcé al máximo.
+
+
